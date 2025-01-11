@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Hubet – Nền tảng chơi game trực tuyến tặng 88k miễn phí
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hubet <https://hubet.black/>`_ là nền tảng chơi game trực tuyến uy tín và được yêu thích, nổi bật với dịch vụ chuyên nghiệp, danh mục trò chơi đa dạng như thể thao, e-sports, casino, slot, bắn cá và xổ số, cùng các chương trình khuyến mãi hấp dẫn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Người chơi mới khi đăng ký tài khoản tại Hubet sẽ nhận ngay 88k miễn phí để trải nghiệm, đồng thời được hưởng các ưu đãi như tặng thưởng nạp tiền, hoàn trả không giới hạn và quà tặng dành riêng cho thành viên VIP. Hubet là lựa chọn hoàn hảo cho những ai tìm kiếm giải trí đỉnh cao và cơ hội trúng thưởng lớn.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 231 Liên Khu 4-5, Bình Hưng Hoà B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0888549662. 
 
-.. toctree::
+Email: info@hubet.black. 
 
-   usage
-   api
+Website: https://hubet.black/ 
+
+#hubet #trangchuhubet #dangkyhubet #dangnhaphubet #linkhubet
